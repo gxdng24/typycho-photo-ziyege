@@ -7,7 +7,13 @@ https://ziyege.rf.gd/903.html
 
 https://blog.ziyege.com/photo.html
 
-Multiverse风格 Multiverse Lens风格 Lens
+Multiverse风格
+
+<img width="1885" height="920" alt="image" src="https://github.com/user-attachments/assets/0ee390fa-bd99-4da6-872a-926d14d39559" />
+
+Lens风格
+
+<img width="1856" height="918" alt="image" src="https://github.com/user-attachments/assets/cb5f6ab5-0928-4b18-959b-70401093e300" />
 
 特性:
  本地运行
