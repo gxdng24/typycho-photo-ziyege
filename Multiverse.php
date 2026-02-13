@@ -8,6 +8,23 @@
  * 数据格式：文章内容每行一条记录，格式为：标题,描述,图片URL         描述可以空置
  */
 ?>
+<!-- 相册图片对象存储供应商，用以加载缩略图 -->
+<?php
+function storage($storage)
+{
+	if ($storage == "UPYUN") {
+		echo "!/fw/640/quality/85";
+	} elseif ($storage == "OSS") {
+		echo "?x-oss-process=image/resize,w_640/quality,q_85";
+	} elseif ($storage == "KODO") {
+		echo "?imageView2/2/w/640/q/85";
+	} elseif ($storage == "COS") {
+		echo "?imageView2/2/w/640/q/85";
+	} else
+		echo "";
+}
+?>
+<!-- 自动缩略图结束 -->  
 <!DOCTYPE HTML>
 <html>
 <head>
