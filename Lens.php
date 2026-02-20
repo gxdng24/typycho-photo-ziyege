@@ -249,9 +249,9 @@ function storage($storage)
         - main.js         : 主题核心交互（全屏、画廊动画等）
         每个文件均附加文件修改时间戳，避免缓存问题。
     -->
-    <script src="<?php $this->options->themeUrl(); ?>/Lens/js/jquery.min.js></script>
-    <script src="<?php $this->options->themeUrl(); ?>/Lens/js/browser.min.js>"></script>
-    <script src="<?php $this->options->themeUrl(); ?>/Lens/js/breakpoints.min.js>"></script>
-    <script src="<?php $this->options->themeUrl(); ?>/Lens/js/main.js>"></script>
+<script src="<?php echo $this->options->themeUrl(); ?>/Lens/js/jquery.min.js"></script>
+<script src="<?php echo $this->options->themeUrl(); ?>/Lens/js/browser.min.js"></script>
+<script src="<?php echo $this->options->themeUrl(); ?>/Lens/js/breakpoints.min.js"></script>
+<script src="<?php echo $this->options->themeUrl(); ?>/Lens/js/main.js"></script>
 </body>
 </html>
