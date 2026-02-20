@@ -56,9 +56,9 @@ function storage($storage)
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 
     <!-- 核心样式：带文件修改时间戳用于缓存刷新 -->
-    <link rel="stylesheet" href="<?php $this->options->themeUrl(); ?>/Lens/css/main.css>" />
+    <link rel="stylesheet" href="<?php $this->options->themeUrl(); ?>/Lens/css/main.css" />
     <noscript>
-        <link rel="stylesheet" href="<?php $this->options->themeUrl(); ?>/Lens/css/noscript.css>" />
+        <link rel="stylesheet" href="<?php $this->options->themeUrl(); ?>/Lens/css/noscript.css" />
     </noscript>
     <!-- 此处可插入百度统计等第三方脚本 -->
 </head>
