@@ -6,6 +6,7 @@
  * @link          https://Ziyege.com
   * 本模板基于 HTML5 UP 的 Lens 主题二次开发，用于展示照片集。
  * 数据格式：文章内容每行一条记录，格式为：标题,描述,图片URL         描述可以空置
+ * @package custom
  * 自定义字段说明：
  *   - about    : 页面描述（显示在标题下方）
  *   - CDN      : 对象存储供应商（UPYUN/OSS/KODO/COS），用于生成裁剪缩略图
