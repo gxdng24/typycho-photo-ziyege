@@ -14,7 +14,7 @@
 
 [https://ziyege.rf.gd/903.html](https://ziyege.rf.gd/903.html)
 
-[https://blog.ziyege.com/photo.html](https://blog.ziyege.com/photo.html)
+[https://blog.ziyege.com/photo.html](https://blog.ziyege.com/photos.html)
 
 Multiverse风格
 
